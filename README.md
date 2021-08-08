@@ -16,7 +16,7 @@ I will try to update the code and add more themes frequently.
 
 - Now head to [userstyles.org](https://userstyles.org/).
 
-- You can search for themes by name eg. [100ff.net_greenify](https://userstyles.org/styles/210553/10ff-net-greenify).
+- You can search for themes by name eg. [10ff.net_greenify](https://userstyles.org/styles/210553/10ff-net-greenify).
 
 - Install the theme from there.
 
